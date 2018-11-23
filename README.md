@@ -2,7 +2,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/lismore/covert-comms.svg?branch=master)](https://github.com/lismore/covert-comm)
 
 Covert-Comms is a ethereum blockchain based, encrypted, secure, untraceable communications DApp.
 
