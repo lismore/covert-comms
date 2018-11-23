@@ -2,9 +2,9 @@
     "name": "covert-comms",
     "version": "1.0.0",
     "description": "An ethereum blockchain based secure encrypted message DApp",
-    "main": "index.js",
+    "main": "app.js",
     "scripts": {
-        "start": "node index.js",
+        "start": "node bin/app.js",
         "test": "mocha --exit"
     },
     "repository": {
@@ -26,8 +26,13 @@
     },
     "homepage": "https://github.com/lismore/covert-comms#readme",
     "dependencies": {
+        "body-parser": "^1.18.3",
         "chai": "^4.2.0",
+        "cookie-parser": "^1.4.3",
+        "ejs": "^2.6.1",
         "express": "^4.16.4",
-        "mocha": "^5.2.0"
+        "mocha": "^5.2.0",
+        "morgan": "^1.9.1",
+        "serve-favicon": "^2.5.0"
     }
 }
