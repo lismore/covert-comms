@@ -1,0 +1,30 @@
+{
+  "name": "covert-comms",
+  "version": "1.0.0",
+  "description": "An ethereum blockchain based secure encrypted message DApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lismore/covert-comms.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "whisper",
+    "secure",
+    "encrypted",
+    "messaging"
+  ],
+  "author": "Patrick Lismore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lismore/covert-comms/issues"
+  },
+  "homepage": "https://github.com/lismore/covert-comms#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
