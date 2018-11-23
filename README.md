@@ -1,7 +1,5 @@
 # Covert-Comms
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 [![Build Status](https://travis-ci.org/lismore/covert-comms.svg?branch=master)](https://github.com/lismore/covert-comm)
 
 Covert-Comms is a ethereum blockchain based, encrypted, secure, untraceable communications DApp.
@@ -70,3 +68,7 @@ License
 ----
 
 MIT
+
+### Supprt
+
+<p>For details on support check out the support page <a href="./SUPPORT.html">Support Page </a></p>
